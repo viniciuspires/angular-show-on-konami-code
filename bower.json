@@ -1,0 +1,30 @@
+{
+  "name": "angular-show-on-konami-code",
+  "main": "angular-show-on-konami-code.js",
+  "homepage": "https://github.com/viniciuspires/angular-show-on-konami-code",
+  "authors": [
+    "Vinicius da Costa Pires <vinicius.costa.pires@gmail.com>"
+  ],
+  "dependencies":{
+    "angular":"~1.5.5"
+  },
+  "description": "Shows a Toasty! element when a konami code is inserted into the page",
+  "keywords": [
+    "angular",
+    "konami",
+    "easter",
+    "egg",
+    "konami",
+    "code",
+    "toasty",
+    "mk3"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
