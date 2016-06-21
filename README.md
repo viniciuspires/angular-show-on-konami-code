@@ -6,7 +6,9 @@ Pops an element when a user enters a Konami Code.
 
 Install with bower 
 
-    bower install angular-show-on-konami-code
+```
+$ bower install angular-show-on-konami-code
+```
 
 Use in your angular app:
 
