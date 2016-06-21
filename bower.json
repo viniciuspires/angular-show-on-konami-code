@@ -1,6 +1,7 @@
 {
   "name": "angular-show-on-konami-code",
   "main": "angular-show-on-konami-code.js",
+  "version":"0.0.1",
   "homepage": "https://github.com/viniciuspires/angular-show-on-konami-code",
   "authors": [
     "Vinicius da Costa Pires <vinicius.costa.pires@gmail.com>"
